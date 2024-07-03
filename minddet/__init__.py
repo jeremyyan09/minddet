@@ -1,3 +1,0 @@
-"""
-minddet init
-"""
